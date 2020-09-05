@@ -45,8 +45,7 @@ CREATE TABLE `empleados` (
 INSERT INTO `empleados` (`id_empleado`, `nombre`, `edad`, `id_genero`, `email`, `id_puesto`, `sueldo`) VALUES
 (1, 'Ulises Alexis Flores Chavez', 21, 1, 'uafc99@gmail.com', 1, 670.78),
 (2, 'Erlinda Esmeralda Estrada', 20, 2, 'email@email.com', 2, 400.78),
-(3, 'Rosa Delia Chavez', 46, 2, 'email@email.com', 5, 500.89),
-(5, 'Benito Kamela', 46, 1, 'email@email.com', 7, 325.99);
+(3, 'Rosa Delia Chavez', 46, 2, 'email@email.com', 5, 500.89);
 
 -- --------------------------------------------------------
 
